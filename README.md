@@ -1,4 +1,7 @@
-﻿Generates a PNG or SVG representation of your Git repository's commit history.
+Moved from [code.google.com/p/alexandrembm-gitgraph](http://code.google.com/p/alexandrembm-gitgraph). Fork under [GPLv3](http://www.gnu.org/licenses/gpl.html).
+
+```
+Generates a PNG or SVG representation of your Git repository's commit history.
  
 Very simple. Just a bash script. Super handy.
  
@@ -20,4 +23,4 @@ Options:
  
  refs          : commit references (tags, branches, shas); this is passed
                  directly to "git log"
-
+```
